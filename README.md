@@ -1,6 +1,13 @@
-# Proj_Criando-seu-jogo-no-estilo-Space-Shooter
-Proj_Criando seu jogo no estilo Space Shooter
+# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
 
-DESCRIÇÃO
+Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
 
-Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
+### Os requisitos são:
+
+* [HTML básico](https://www.w3schools.com/html/)
+* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ 
+
+
+## 🚀 Let's code! 🚀
